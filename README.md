@@ -20,12 +20,9 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#usage-examples">Usage Examples</a></li>
     <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
@@ -52,7 +49,7 @@ This is a simple React application that calls the public IMDb API to search and 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-To get a local copy up and running follow these simple example steps.
+To get a local copy up and running follow these simple steps:
 
 
 ### Prerequisites
@@ -65,7 +62,7 @@ To get a local copy up and running follow these simple example steps.
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
+1. Get a free API Key at [OMDbAPI](http://omdbapi.com/apikey.aspx)
 2. Clone the repo
    ```sh
    git clone https://github.com/your_username_/Project-Name.git
@@ -74,7 +71,7 @@ To get a local copy up and running follow these simple example steps.
    ```sh
    npm install
    ```
-4. Enter your API in `config.js`
+4. Enter your API in `App.js`
    ```js
    const API_KEY = 'ENTER YOUR API';
    ```
@@ -84,31 +81,12 @@ To get a local copy up and running follow these simple example steps.
 
 
 <!-- USAGE EXAMPLES -->
-## Usage
+## Usage Examples
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
-
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
+<img width="1440" alt="superman" src="https://user-images.githubusercontent.com/74520612/168492393-baea3809-c237-458f-8868-6bcac2e57946.png">
+<img width="1440" alt="pokemon" src="https://user-images.githubusercontent.com/74520612/168492401-4f1ec04e-d8eb-4ef7-b220-395eab11060e.png">
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
 <!-- CONTRIBUTING -->
@@ -128,57 +106,11 @@ Don't forget to give the project a star! Thanks again!
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Peter Torres - [LinkedIn](https://www.linkedin.com/in/torres-peter/)
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
-
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-* [Malven's Grid Cheatsheet](https://grid.malven.co/)
-* [Img Shields](https://shields.io)
-* [GitHub Pages](https://pages.github.com)
-* [Font Awesome](https://fontawesome.com)
-* [React Icons](https://react-icons.github.io/react-icons/search)
+Project Link: [https://github.com/peterTorres7/IMDbQuery](https://github.com/peterTorres7/IMDbQuery)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: images/screenshot.png
