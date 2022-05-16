@@ -64,7 +64,7 @@ To get a local copy up and running follow these simple steps:
 1. Get a free API Key at [OMDbAPI](http://omdbapi.com/apikey.aspx)
 2. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/your_username_/IMDbQuery.git
    ```
 3. Install NPM packages
    ```sh
