@@ -38,11 +38,13 @@ This is a simple React application that calls the public OMDb API to search and 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
+
 ### Built With
 
 * [React.js](https://reactjs.org/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+
 
 
 <!-- GETTING STARTED -->
@@ -51,12 +53,14 @@ This is a simple React application that calls the public OMDb API to search and 
 To get a local copy up and running follow these simple steps:
 
 
+
 ### Prerequisites
 
 * npm
   ```sh
   npm install npm@latest -g
   ```
+
 
 
 ### Installation
@@ -83,9 +87,10 @@ To get a local copy up and running follow these simple steps:
 ## Usage Examples
 
 <img width="1440" alt="superman" src="https://user-images.githubusercontent.com/74520612/168492393-baea3809-c237-458f-8868-6bcac2e57946.png">
-<img width="1440" alt="pokemon" src="https://user-images.githubusercontent.com/74520612/168492401-4f1ec04e-d8eb-4ef7-b220-395eab11060e.png">
+<img width="1440" alt="pokemon" src="https://user-images.githubusercontent.com/74520612/168533735-ea2187c5-3b0b-4e59-931f-c3b04f6a408f.png">
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+
 
 
 <!-- CONTRIBUTING -->
@@ -103,6 +108,7 @@ Don't forget to give the project a star! Thanks again!
 5. Open a Pull Request
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+
 
 
 <!-- CONTACT -->
