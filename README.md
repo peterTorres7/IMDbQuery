@@ -31,9 +31,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img width="1440" alt="IMDbQuery" src="https://user-images.githubusercontent.com/74520612/168460178-78dc348d-30b6-4155-ad1b-3a3501762b2b.png">
-
 This is a simple React application that calls the public OMDb API to search and return a short list of results. This app was built because I was curious about using this API.
+
+<img width="1440" alt="IMDbQuery" src="https://user-images.githubusercontent.com/74520612/168460178-78dc348d-30b6-4155-ad1b-3a3501762b2b.png">
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
